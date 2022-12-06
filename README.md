@@ -36,7 +36,7 @@
 ![screenshot](https://maik-dev.com/simplesites/gallery-page/assets/final-view.jpg)
 > Mockup Credits: [Image by denamorado](https://www.freepik.com/free-psd/digital-devices-screen-editable_32084754.htm#query=computer%20mockup&position=41&from_view=keyword) on Freepik
 
-- You can see my demo following [this link](https://maik-dev.com/simplesites/recipe-page/index.html).
+- You can see my demo following [this link](https://maik-dev.com/simplesites/gallery-page/index.html).
 - This demo was developed following a design oriented in mobile first. (I think is the best way for designing a web site nowadays).
 - I try to use a mockup for the overview, i need to improve my image editing skill 😅.
 
